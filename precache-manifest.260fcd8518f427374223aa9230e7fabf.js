@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e3594d10f0674a714473",
+    "revision": "309f8f59685692d1bfab",
     "url": "/ken-cv/static/css/main.3c89011d.chunk.css"
   },
   {
-    "revision": "e3594d10f0674a714473",
-    "url": "/ken-cv/static/js/main.e3594d10.chunk.js"
+    "revision": "309f8f59685692d1bfab",
+    "url": "/ken-cv/static/js/main.309f8f59.chunk.js"
   },
   {
     "revision": "f12bf432d1b1b25fb939",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/ken-cv/static/media/work.b5594cf8.svg"
   },
   {
-    "revision": "238ddd0e4c771c0151461780d61bf894",
+    "revision": "120f895f7b6c74d78489d8b22e0fcbeb",
     "url": "/ken-cv/index.html"
   }
 ];
